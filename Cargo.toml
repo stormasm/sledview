@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-clap = "4.3.11"
+clap = "4.3.24"
 shlex = "1.1.0"
